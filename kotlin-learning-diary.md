@@ -8,15 +8,15 @@ Total time spent on the project: 210 minutes (3 hours 30 minutes)
 
 - [x] Searching, evaluating and listing online learning material related to Kotlin (18.2.2020: 195 minutes)
 - [x] Creating an initial todo list for self-learning (18.2.2020: 20 min)
-- [] Kotlin in a nutshell
-- [] Benefits of Kotlin
-- [] Java vs Kotlin
-- [] Installing IDEs and developing in Kotlin
-- [] Creating a Hello World
-- [] Basics of Kotlin
-- [] Practising at Kotlin Koans
-- [] Solving Kotlin puzzles
-- [] Creating a simple Android App
+- [ ] Kotlin in a nutshell
+- [ ] Benefits of Kotlin
+- [ ] Java vs Kotlin
+- [ ] Installing IDEs and developing in Kotlin
+- [ ] Creating a Hello World
+- [ ] Basics of Kotlin
+- [ ] Practising at Kotlin Koans
+- [ ] Solving Kotlin puzzles
+- [ ] Creating a simple Android App
 - ... more to be added later
 
 ## Where to learn Kotlin

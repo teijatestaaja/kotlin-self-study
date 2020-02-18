@@ -23,9 +23,9 @@ Total time spent on the project: 210 minutes (3 hours 30 minutes)
 
 After searching and evaluating online material related to Kotlin, I learned that Kotlin language was developed in 2011 by [JetBrains](https://www.jetbrains.com/), a software development company headquartered in Czech Republic. In May 2019 [Google announced](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/) that the Kotlin programming language is now its preferred language for Android application developers. Also, according to [some statistics](http://codinginfinite.com/top-programming-languages-2020-stats-surveys), with the growth of Android, support of Google and with clean and short syntax Kotlin is a good choice to learn as a programming language for Android development.
 
-I also learned that there are many tutorials, guidelines, online courses and Youtube videos on Kotlin. Most of it seems to be in English, since I could not find any tutorials in Finnish. The best material for learning Kotlin online are maintained by the [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html), which *"was created by JetBrains and Google with the mission to protect, promote and advance the development of the Kotlin programming language."*
+I also learned that there are many tutorials, guidelines, online courses and Youtube videos on Kotlin. Most of it seems to be in English, since I could not find any tutorials in Finnish. The best materials for learning Kotlin online are maintained by the [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html), which *"was created by JetBrains and Google with the mission to protect, promote and advance the development of the Kotlin programming language."*
 
-Here is a list of online materials I think are useful when self-learing Kotlin:
+Here is a list of online materials I think are useful when self-learning Kotlin:
 
 #### Main resources
 - Learn Kotlin (https://kotlinlang.org/docs/reference/)

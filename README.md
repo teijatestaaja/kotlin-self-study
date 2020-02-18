@@ -1,4 +1,4 @@
-# Kotlin learning diary
+# Kotlin self-study project
 
 Welcome to follow Test Automation Engineer's learning some Kotlin programming from the scratch :)
 
@@ -6,4 +6,4 @@ This Kotlin self-study project started on Valentine's Day 14.2.2020. I participa
 
 I have not particularly enjoyed Android testing nor the IDEs such as Android Studio, but I hope this learning process will make things related to Android more likeable. I'll start from zero with Kotlin, since I don't have any previous experience related to it.
 
-So, this is a test engineer’s learning diary to Kotlin. Let's start with the basics.
+So, to follow the project, see the test engineer’s [learning diary to Kotlin](kotlin-learning-diary).

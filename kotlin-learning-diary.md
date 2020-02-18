@@ -1,12 +1,13 @@
 # Kotlin learning diary
 
-This is my learning diary on Kotlin programming language. The self-study was started on week 8 in 2020. 
+This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020. 
 
-Total time spent on the project: 210 minutes (3 hours 30 minutes)
+Total time spent on the project: 280 minutes (4 hours 40 minutes)
 
 ## Steps from zero to hero in Kotlin
 
-- [x] Searching, evaluating and listing online learning material related to Kotlin (18.2.2020: 195 minutes)
+- [x] Setting up a github self-study project and finding out what Kotlin is (14.2.2020: 60 minutes)
+- [x] Searching, evaluating and listing online learning material related to Kotlin (18.2.2020: 200 minutes)
 - [x] Creating an initial todo list for self-learning (18.2.2020: 20 min)
 - [ ] Kotlin in a nutshell
 - [ ] Benefits of Kotlin

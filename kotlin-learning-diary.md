@@ -17,7 +17,7 @@ Total time spent on the project: 210 minutes (3 hours 30 minutes)
 - [ ] Practising at Kotlin Koans
 - [ ] Solving Kotlin puzzles
 - [ ] Creating a simple Android App
-- ... more to be added later
+- [ ] ... more to be added later
 
 ## Where to learn Kotlin
 

@@ -2,7 +2,7 @@
 
 This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
 
-Total time spent on the project: 280 minutes (4 hours 40 minutes)
+Total time spent on the project: 430 minutes (7 hours 10 minutes)
 
 ## Steps from zero to hero in Kotlin
 
@@ -12,14 +12,13 @@ Total time spent on the project: 280 minutes (4 hours 40 minutes)
 - [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (19.2.2020: 30 minutes)
 - [x] Create a Hello World program and run it in different environments (19.2.2020: 30 minutes)
 - [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 90 min)
-- [ ] Kotlin in a nutshell
-- [ ] Benefits of Kotlin
-- [ ] Java vs Kotlin
-- [ ] Installing IDEs and developing in Kotlin
-- [ ] Basics of Kotlin
-- [ ] Practising at Kotlin Koans
-- [ ] Solving Kotlin puzzles
-- [ ] Creating a simple Android App
+- [ ] Study Kotlin in a nutshell
+- [ ] Find out benefits of Kotlin
+- [ ] Compare Java vs Kotlin
+- [ ] Study basics of Kotlin
+- [ ] Practise at Kotlin Koans
+- [ ] Solve Kotlin puzzles
+- [ ] Create a simple Android App
 - [ ] ... more to be added later
 
 ## Where to learn Kotlin

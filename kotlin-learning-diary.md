@@ -10,8 +10,8 @@ Total time spent on the project: 280 minutes (4 hours 40 minutes)
 - [x] Search, evaluate and listi online learning material related to Kotlin (18.2.2020: 200 minutes)
 - [x] Creating an initial todo list for self-learning (18.2.2020: 20 min)
 - [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (19.2.2020: 30 minutes)
-- [x] Create a Hello World Program and run it in different environments (19.2.2020: 30 minutes)
-- [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 60 min)
+- [x] Create a Hello World program and run it in different environments (19.2.2020: 30 minutes)
+- [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 90 min)
 - [ ] Kotlin in a nutshell
 - [ ] Benefits of Kotlin
 - [ ] Java vs Kotlin
@@ -74,7 +74,7 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 
 ## First program
 
-For [the first programming task](programming-tasks.md#task-1) I downloaded [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/). For [the second programming task](programming-tasks.md#task-2) I downloaded [Kotlin plugin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin) and [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) for my favourite code editor, [Visual Studio Code](https://code.visualstudio.com/). I also downloaded the latest [standalone version of the Kotlin complier](https://github.com/JetBrains/kotlin/releases/tag/v1.3.61).
+For [the first programming task](programming-tasks.md#task-1) I installed the [JDK](https://jdk.java.net/) and downloaded [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/). For [the second programming task](programming-tasks.md#task-2) I downloaded [Kotlin plugin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin) and [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) for my favourite code editor, [Visual Studio Code](https://code.visualstudio.com/). I also downloaded the latest [standalone version of the Kotlin complier](https://github.com/JetBrains/kotlin/releases/tag/v1.3.61).
 
 As a result, I created my first hello world program in Kotlin with IntelliJ IDEA
 
@@ -86,6 +86,13 @@ fun main() {
 
 With the basic hello world program, I learned how to
 
-- make a project in IntelliJ IDEA
+- make a basic Kotlin project in IntelliJ IDEA
 - create a new Kotlin file (.kt file) by right-clicking src folder
-- run a Kotlin program with IntelliJ IDEA and Visual Studio Code
+- run a Kotlin program with IntelliJ IDEA, Visual Studio Code and a command prompt
+- set up a Kotlin standalone compiler
+
+I used the following learning materials
+
+- [Tutorial: Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)
+- [Video: Kotlin - Visual Studio Code](https://www.youtube.com/watch?v=QeVl8fXteI0)
+- [Tutorial: Working with the Command Line Compiler](https://kotlinlang.org/docs/tutorials/command-line.html)

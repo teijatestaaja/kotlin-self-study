@@ -2,7 +2,7 @@
 
 These programming tasks are beginner-friendly tasks for self-learning Kotlin programming language. I have designed the tasks while teaching myself Kotlin from scratch, and the tasks below are free to use for personal learning and career advancement. Do not use these tasks for commercial purposes.
 
-(c) Teija Alasalmi. 
+(c) Teija Alasalmi.
 
 ## [TASK 1](#task-1). Create and run a Kotlin Hello World program using IntelliJ IDEA
 

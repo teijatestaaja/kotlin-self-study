@@ -4,20 +4,22 @@ These programming tasks are beginner-friendly tasks for self-learning Kotlin pro
 
 (c) Teija Alasalmi.
 
-## [TASK 1](#task-1). Create and run a Kotlin Hello World program using IntelliJ IDEA
+## Setting up the environment
+
+### [TASK 1](#task-1). Create and run a Kotlin Hello World program using IntelliJ IDEA
 
 - Start a new project.
 - Add a Kotlin file.
 - Add a print statement.
 - Run the program.
 
-## [TASK 2](#task-2). Run the same Hello World program using Visual Studio Code
+### [TASK 2](#task-2). Run the same Hello World program using Visual Studio Code
 
 - Open the project in Visual Studio Code, with Code Runner plugin enabled.
 - Try running it and notice the 'kotlinc' error.
 - Install and set up latest standalone Kotlin compiler.
 - Restart Visual Studio Code and run the project again.
 
-## [TASK 3](#task-3). Run the same Hello World program using a command prompt or shell
+### [TASK 3](#task-3). Run the same Hello World program using a command prompt or shell
 
 - Compile and run the project in command prompt or shell.

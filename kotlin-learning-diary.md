@@ -2,7 +2,7 @@
 
 This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
 
-Total time spent on the project: 430 minutes (7 hours 10 minutes)
+Total time spent on the project: 640 minutes (10 hours 40 minutes)
 
 ## Steps from zero to hero in Kotlin
 
@@ -12,10 +12,10 @@ Total time spent on the project: 430 minutes (7 hours 10 minutes)
 - [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (19.2.2020: 30 minutes)
 - [x] Create a Hello World program and run it in different environments (19.2.2020: 30 minutes)
 - [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 90 min)
-- [ ] Study Kotlin in a nutshell
-- [ ] Find out benefits of Kotlin
-- [ ] Compare Java vs Kotlin
+- [x] Learn to write simple unit tests in Kotlin (20.2.2020: 120 minutes)
+- [x] Find out benefits of Kotlin and update learning diary (20.2.2020: 90 minutes)
 - [ ] Study basics of Kotlin
+- [ ] Compare Java vs Kotlin
 - [ ] Practise at Kotlin Koans
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App
@@ -78,7 +78,7 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 - Kotlin open sourse projects and libraries [https://kotlinlang.org/docs/resources.html](https://kotlinlang.org/docs/resources.html)
 - More resources on Kotlin listed in Android Developers Page [https://developer.android.com/kotlin/resources](https://developer.android.com/kotlin/resources)
 
-## First program (Tasks 1 to 3)
+## Writing the first program (Tasks 1 to 3)
 
 To complete [Task 1](programming-tasks.md#task-1) I installed the [JDK](https://jdk.java.net/) and downloaded [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/). For [Task 2](programming-tasks.md#task-2) I downloaded [Kotlin plugin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin) and [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) for my favourite code editor, [Visual Studio Code](https://code.visualstudio.com/). For [Task 3](programming-tasks.md#task-3) I also downloaded the latest [standalone version of the Kotlin complier](https://github.com/JetBrains/kotlin/releases/tag/v1.3.61).
 
@@ -86,11 +86,11 @@ As a result, I created my first hello world program in Kotlin with IntelliJ IDEA
 
 ```kotlin
 fun main() {
-    println("Hello world!")
+    println("Hello World!")
 }
 ```
 
-With the basic hello world program, I learned how to
+I learned to
 
 - make a basic Kotlin project in IntelliJ IDEA
 - create a new Kotlin file (.kt file) by right-clicking src folder
@@ -99,6 +99,60 @@ With the basic hello world program, I learned how to
 
 I used the following learning materials
 
-- [Tutorial: Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)
-- [Video: Kotlin - Visual Studio Code](https://www.youtube.com/watch?v=QeVl8fXteI0)
-- [Tutorial: Working with the Command Line Compiler](https://kotlinlang.org/docs/tutorials/command-line.html)
+- Tutorial: [Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)
+- Video: [Kotlin - Visual Studio Code](https://www.youtube.com/watch?v=QeVl8fXteI0)
+- Tutorial: [Working with the Command Line Compiler](https://kotlinlang.org/docs/tutorials/command-line.html)
+
+## Creating first unit tests (Tasks 4 to 5)
+
+As a Test Engineer, I wanted to learn to write tests first using Test-driven development (TDD) method. I created my first unit tests in Kotlin and as a result, refactored code by adding a hello named function:
+
+```kotlin
+fun hello(language: Int = 0, name: String = "World"): String {
+    when (language) {
+        1 -> return "Hei ${name}!"
+        2 -> return "Hola ${name}!"
+        else -> return "Hello ${name}!"
+    }
+}
+
+fun main() {
+    println(hello())
+}
+```
+
+I learned
+
+- to write simple unit tests
+- some very basics of Kotlin (how to create a function with default values, use a string template and use a when statement)
+- to use TDD method with Kotlin
+- to run unit tests
+- why Kotlin is cool
+- a 5 step method of easy TDD
+
+> According to Heather Downing, Kotlin is cool because it is
+>
+> - concise: The less code you write, the fewer mistakes you make.
+> - expressive: You can express whatever you want in a shorter way.
+> - pragmatic: It does not take a lot to get something built.
+> - type safe: For a developer it is important that you have something you don't have to think about too much.
+> - functional: In Kotlin, funtions and properties are first class citizens.
+> - friendly: Interoperability between Kotlin and Java work almost perfectly.
+> - human readable: This is visible when writing tests or comparing with other programming languages.
+>
+> Heather Downing's 5 step method of easy TDD
+>
+> 1. Decide the inputs and outputs
+> 2. Choose function signature
+> 3. Decide on one aspect of functionality
+> 4. Implement test
+> 5. Implement code
+
+I used the following learning materials
+
+- Article: [Getting Started Unit Testing with Kotlin](https://spin.atomicobject.com/2018/10/07/kotlin-unit-testing/) by Molly Alger
+- Tutorial: [Test Driven Development](https://www.jetbrains.com/help/idea/tdd-with-intellij-idea.html)
+- Documentation: [the standard Kotlin testing framework kotlin.text]([https://kotlinlang.org/api/latest/kotlin.test/index.html)
+- Kotlin Language Guide: [Control Flow: if, when, for, while](https://kotlinlang.org/docs/reference/control-flow.html)
+- Chapter in a book: [The Art of Agile Development: Test-Driven Development](https://www.jamesshore.com/Agile-Book/test_driven_development.html) by James Shore
+- Conference talk (video): [Android TDD with Kotlin](https://www.youtube.com/watch?v=TXwCu8fVsVU) by Heather Downing

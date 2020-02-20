@@ -8,7 +8,7 @@ I have not particularly enjoyed Android testing nor the IDEs such as Android Stu
 
 So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-diary.md).
 
-## What I have learned from this project
+## Summary: What I have learned from this project so far (February 2020)
 
 With this self-organized self-study project, I have learned to
 
@@ -18,3 +18,18 @@ With this self-organized self-study project, I have learned to
 - create small [programming tasks](programming-tasks.md) for a certain purpose in order to learn a feature
 - search learning material suitable for this project
 - evaluate learning material suitable for this project
+- create, refactor and run unit tests
+- write Kotlin code
+- refactor Kotlin code
+
+To learn Kotlin I have
+
+- read online articles
+- read online tutorials
+- read Kotlin documentation and language guide
+- read chapters in books
+- watched conference talks
+- watched YouTube videos
+- coded with IntelliJ IDEA
+- coded with Visual Studio
+- made lots of errors when coding

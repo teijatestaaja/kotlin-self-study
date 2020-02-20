@@ -34,8 +34,13 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 
 - Learn Kotlin [https://kotlinlang.org/docs/reference/](https://kotlinlang.org/docs/reference/)
 - Kotlin Koans [https://play.kotlinlang.org/koans/overview](https://play.kotlinlang.org/koans/overview)
-- Kotlin Playground [https://play.kotlinlang.org](https://play.kotlinlang.org)
 - GitHub page for Kotlin by JetBrains [https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+### Tools
+
+- Getting started with IntelliJ IDEA [https://kotlinlang.org/docs/tutorials/getting-started.html](https://kotlinlang.org/docs/tutorials/getting-started.html)
+- Getting started with Android Studio [https://kotlinlang.org/docs/tutorials/kotlin-android.html](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
+- Kotlin plugin for Visual Studio Code [(https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 
 ### Videos
 
@@ -48,6 +53,7 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 
 - 8-Minute crash course on Kotlin Programming language [https://blog.kotlin-academy.com/8-minute-crash-course-on-kotlin-programming-language-e8a804ed3d8a](https://blog.kotlin-academy.com/8-minute-crash-course-on-kotlin-programming-language-e8a804ed3d8a)
 - Android develop guide on Kotlin: Get Started with Kotlin on Android [https://developer.android.com/kotlin/get-started](https://developer.android.com/kotlin/get-started)
+- Kotlin Playground [https://play.kotlinlang.org](https://play.kotlinlang.org)
 
 ### Free courses
 
@@ -55,11 +61,6 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 - Udacity: Kotlin Bootcamp for Programmers by Google (intermediate level) [https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
 - Udacity: Developing Android Apps with Kotlin by Google (intermediate level) [https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 - Udacity: Advanced Android with Kotlin by Google (intermediate level) [https://www.udacity.com/course/advanced-android-with-kotlin--ud940](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
-
-### Tools
-
-- Getting started with IntelliJ IDEA [https://kotlinlang.org/docs/tutorials/getting-started.html](https://kotlinlang.org/docs/tutorials/getting-started.html)
-- Getting started with Android Studio [https://kotlinlang.org/docs/tutorials/kotlin-android.html](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
 
 ### Blogs, coding puzzles and sample apps
 

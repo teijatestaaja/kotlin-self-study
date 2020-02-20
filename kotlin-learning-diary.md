@@ -48,6 +48,13 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 - 8-Minute crash course on Kotlin Programming language [https://blog.kotlin-academy.com/8-minute-crash-course-on-kotlin-programming-language-e8a804ed3d8a](https://blog.kotlin-academy.com/8-minute-crash-course-on-kotlin-programming-language-e8a804ed3d8a)
 - Android develop guide on Kotlin: Get Started with Kotlin on Android [https://developer.android.com/kotlin/get-started](https://developer.android.com/kotlin/get-started)
 
+### Free courses
+
+- Coursera: Kotlin for Java Developers by JetBrains (intermediate level) [https://www.coursera.org/learn/kotlin-for-java-developers](https://www.coursera.org/learn/kotlin-for-java-developers)
+- Udacity: Kotlin Bootcamp for Programmers by Google (intermediate level) [https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+- Udacity: Developing Android Apps with Kotlin by Google (intermediate level) [https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+- Udacity: Advanced Android with Kotlin by Google (intermediate level) [https://www.udacity.com/course/advanced-android-with-kotlin--ud940](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
+
 ### Tools
 
 - Getting started with IntelliJ IDEA [https://kotlinlang.org/docs/tutorials/getting-started.html](https://kotlinlang.org/docs/tutorials/getting-started.html)
@@ -73,7 +80,7 @@ Here is a list of online materials I think are useful when self-learning Kotlin:
 
 ## First program (Tasks 1 to 3)
 
-For [the first programming task](programming-tasks.md#task-1) I installed the [JDK](https://jdk.java.net/) and downloaded [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/). For [the second programming task](programming-tasks.md#task-2) I downloaded [Kotlin plugin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin) and [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) for my favourite code editor, [Visual Studio Code](https://code.visualstudio.com/). For [the third programming task](programming-tasks.md#task-3) I also downloaded the latest [standalone version of the Kotlin complier](https://github.com/JetBrains/kotlin/releases/tag/v1.3.61).
+To complete [the first programming task](programming-tasks.md#task-1) I installed the [JDK](https://jdk.java.net/) and downloaded [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/). For [the second programming task](programming-tasks.md#task-2) I downloaded [Kotlin plugin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin) and [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) for my favourite code editor, [Visual Studio Code](https://code.visualstudio.com/). For [the third programming task](programming-tasks.md#task-3) I also downloaded the latest [standalone version of the Kotlin complier](https://github.com/JetBrains/kotlin/releases/tag/v1.3.61).
 
 As a result, I created my first hello world program in Kotlin with IntelliJ IDEA
 

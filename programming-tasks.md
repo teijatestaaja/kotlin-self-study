@@ -20,6 +20,8 @@ These programming tasks are beginner-friendly tasks for self-learning Kotlin pro
 - Install and set up latest standalone Kotlin compiler.
 - Restart Visual Studio Code and run the project again.
 
-### [TASK 3](#task-3). Run the same Hello World program using a command prompt or shell
+### [TASK 3](#task-3)
+
+#### Run the same Hello World program using a command prompt or shell
 
 - Compile and run the project in command prompt or shell.

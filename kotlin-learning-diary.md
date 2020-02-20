@@ -2,7 +2,7 @@
 
 This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
 
-Total time spent on the project: 640 minutes (10 hours 40 minutes)
+Total time spent on the project: 670 minutes (11 hours 10 minutes)
 
 ## Steps from zero to hero in Kotlin
 
@@ -12,11 +12,12 @@ Total time spent on the project: 640 minutes (10 hours 40 minutes)
 - [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (19.2.2020: 30 minutes)
 - [x] Create a Hello World program and run it in different environments (19.2.2020: 30 minutes)
 - [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 90 min)
+- [x] Study the basics of Kotlin along with Kotlin's history, present and future (20.2.2020: 30 min)
 - [x] Learn to write simple unit tests in Kotlin (20.2.2020: 120 minutes)
 - [x] Find out benefits of Kotlin and update learning diary (20.2.2020: 90 minutes)
-- [ ] Study basics of Kotlin
-- [ ] Compare Java vs Kotlin
+- [ ] Design more programming tasks
 - [ ] Practise at Kotlin Koans
+- [ ] Compare Java vs Kotlin
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App
 - [ ] ... more to be added later
@@ -152,7 +153,8 @@ I used the following learning materials
 
 - Article: [Getting Started Unit Testing with Kotlin](https://spin.atomicobject.com/2018/10/07/kotlin-unit-testing/) by Molly Alger
 - Tutorial: [Test Driven Development](https://www.jetbrains.com/help/idea/tdd-with-intellij-idea.html)
-- Documentation: [the standard Kotlin testing framework kotlin.text]([https://kotlinlang.org/api/latest/kotlin.test/index.html)
+- Tutorial: [Kotlin Tutorial for Beginners: Learn Kotlin Programming in 2 Hours](https://www.guru99.com/kotlin-tutorial.html)
+- Documentation: [the standard Kotlin testing framework kotlin.test]([https://kotlinlang.org/api/latest/kotlin.test/index.html)
 - Kotlin Language Guide: [Control Flow: if, when, for, while](https://kotlinlang.org/docs/reference/control-flow.html)
 - Chapter in a book: [The Art of Agile Development: Test-Driven Development](https://www.jamesshore.com/Agile-Book/test_driven_development.html) by James Shore
 - Conference talk (video): [Android TDD with Kotlin](https://www.youtube.com/watch?v=TXwCu8fVsVU) by Heather Downing

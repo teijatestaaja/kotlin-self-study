@@ -104,6 +104,7 @@ I used the following learning materials
 - Tutorial: [Getting Started with IntelliJ IDEA](https://kotlinlang.org/docs/tutorials/getting-started.html)
 - Video: [Kotlin - Visual Studio Code](https://www.youtube.com/watch?v=QeVl8fXteI0)
 - Tutorial: [Working with the Command Line Compiler](https://kotlinlang.org/docs/tutorials/command-line.html)
+- Documentation: [Kotlin's Getting Started - Basic Syntax](https://kotlinlang.org/docs/reference/basic-syntax.html)
 
 ## Creating first unit tests (Tasks 4 to 5)
 
@@ -155,7 +156,7 @@ I used the following learning materials
 - Article: [Getting Started Unit Testing with Kotlin](https://spin.atomicobject.com/2018/10/07/kotlin-unit-testing/) by Molly Alger
 - Tutorial: [Test Driven Development](https://www.jetbrains.com/help/idea/tdd-with-intellij-idea.html)
 - Tutorial: [Kotlin Tutorial for Beginners: Learn Kotlin Programming in 2 Hours](https://www.guru99.com/kotlin-tutorial.html)
-- Documentation: [the standard Kotlin testing framework Kotlin.test](https://kotlinlang.org/api/latest/kotlin.test/index.html)
+- Documentation: [The standard Kotlin testing framework Kotlin.test](https://kotlinlang.org/api/latest/kotlin.test/index.html)
 - Kotlin Language Guide: [Control Flow: if, when, for, while](https://kotlinlang.org/docs/reference/control-flow.html)
 - Chapter in a book: [The Art of Agile Development: Test-Driven Development](https://www.jamesshore.com/Agile-Book/test_driven_development.html) by James Shore
 - Conference talk (video): [Android TDD with Kotlin](https://www.youtube.com/watch?v=TXwCu8fVsVU) by Heather Downing

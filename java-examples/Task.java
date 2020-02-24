@@ -2,16 +2,16 @@ public class Task {
     private String description;
     private boolean isCompleted;
 
-    public Task(String initDesc, boolean value) {
+    public Task(String initDesc, boolean initValue) {
         description = initDesc;
-        isCompleted = value;
+        isCompleted = initValue;
     }
 
     public String getDescription() {
         return description;
     }
 
-    public boolean getCompleted() {
+    public boolean getIsCompleted() {
         return isCompleted;
     }
 
@@ -19,7 +19,7 @@ public class Task {
         description = desc;
     }
 
-    public void setCompleted(boolean completed) {
+    public void setIsCompleted(boolean completed) {
         isCompleted = completed;
     }
 }

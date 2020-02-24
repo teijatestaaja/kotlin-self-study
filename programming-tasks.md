@@ -1,6 +1,6 @@
 # Programming tasks
 
-These programming tasks are beginner-friendly tasks for self-learning [Kotlin programming language](https://kotlinlang.org/). They are designed especially for those who have at least some basic Java or JavaScript programming background. The tasks work best if they are completed in order, starting from Task 1. Hints for solving tasks are provided only for the first five tasks, which will help you to set up the development environment, get familiar with finding out information in [Kotlin documentation](https://kotlinlang.org/docs/reference/) and introduce yourself to or brush up your skills in [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
+These programming tasks are beginner-friendly tasks for self-learning [Kotlin programming language](https://kotlinlang.org/). They are designed especially for those who have at least some basic Java or JavaScript programming background. The tasks work best if they are completed in order, starting from Task 1. Hints for solving tasks are provided only for the first ten tasks, which will help you to set up the development environment, get familiar with finding out information in [Kotlin documentation](https://kotlinlang.org/docs/reference/) and introduce yourself to or brush up your skills in [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
 
 All the tasks are divided into sections and completing each section gradually builds up your knowledge on different features of Kotlin. I have designed these tasks while teaching myself Kotlin from scratch, and these tasks are free to use for personal learning and career advancement. Do not use these tasks for commercial purposes. If you have any questions or if you want to give feedback or improvement ideas, please send me an email to teija.alasalmi@gmail.com
 
@@ -63,41 +63,70 @@ All the tasks are divided into sections and completing each section gradually bu
 
 ## Learn to convert existing Java files to Kotlin
 
-### [TASK 6](#task-6). Convert a java class to matching Kotlin class using IntelliJ IDEA
+### [TASK 6](#task-6). Convert a java class to Kotlin data class using IntelliJ IDEA
 
 In this task you will need the following java class: [Task.java](/java-examples/Task.java)
 
 - Read documentation [Classes and Inheritance](https://kotlinlang.org/docs/reference/classes.html).
+- Read documentation [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html)
 - Read tutorial [Mixing Java and Kotlin in one project](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html).
 - Create a new Kotlin project.
 - Convert the Java class to a Kotlin class using Method 1.
 - Delete the created Kotlin class.
 - Convert the Java class to a Kotlin class using Method 2.
+- Change class to data class
 
 Method 1:
 
-- Add a new Kotlin class Player.kt to the project.
-- Copy and paste code from Player.java to the new file to use built-in Java to Kotlin converter.
+- Add a new Kotlin class Task.kt to the project.
+- Copy and paste code from Task.java to the new file to use built-in Java to Kotlin converter.
 
 Method 2:
 
-- Copy and paste Match.java to your Kotlin project.
+- Copy and paste Task.java to your Kotlin project.
 - Right-click the java file in your project view and select "Convert Java File to Kotlin File".
 
-## Learn to write basic functions
+## Learn to override member functions
 
-### [TASK 7](#task-7). Use TDD method and the Task.kt class that was created in the previous task and make the following tests pass
+### [TASK 7](#task-7). Use TDD method and Task.kt class that was created in previous task and make the following tests pass
 
 ```kotlin
-   @Test
+import Task
+import org.junit.Test
+import kotlin.test.assertEquals
+
+class TaskTest {
+    @Test
     fun  `should print not completed task` (){
         val task = Task("Buy groceries", false);
-        assertEquals("[ ] Buy groceries", printTask(task));
+        assertEquals("[ ] Buy groceries", task.toString());
     }
 
     @Test
     fun  `should print completed task` (){
         val task = Task("Cook dinner", true);
-        assertEquals("[x] Cook dinner", printTask(task));
+        assertEquals("[x] Cook dinner", task.toString());
     }
+}
 ```
+
+- Run the test and see that it fails.
+- Override toString() function in Task.kt
+- Re-run the test.
+
+## Learn to create classes with properties
+
+### [TASK 8](#task-8). Create a new Kotlin class named TodoList.kt with a main function that prints out the following output
+
+```kotlin
+All tasks:
+There are no tasks on the list!
+```
+
+- Add new Kotlin class/file.
+- Add main function.
+- Use println to print the desired output.
+
+### [TASK 9](#task-9). Add a new property (a list of tasks) to TodoList.kt by using suitable Collection
+
+- Read documentation [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html)

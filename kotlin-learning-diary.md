@@ -6,9 +6,9 @@ Total time spent on the project: 670 minutes (11 hours 10 minutes)
 
 ## Steps from zero to hero in Kotlin
 
-- [x] Set up a github self-study project and finding out what Kotlin is (14.2.2020: 60 minutes)
-- [x] Search, evaluate and listi online learning material related to Kotlin (18.2.2020: 200 minutes)
-- [x] Creating an initial todo list for self-learning (18.2.2020: 20 min)
+- [x] Set up a github self-study project and find out what Kotlin is (14.2.2020: 60 minutes)
+- [x] Search, evaluate and list online learning material related to Kotlin (18.2.2020: 200 minutes)
+- [x] Create an initial todo list for self-learning (18.2.2020: 20 min)
 - [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (19.2.2020: 30 minutes)
 - [x] Create a Hello World program and run it in different environments (19.2.2020: 30 minutes)
 - [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 90 min)
@@ -111,12 +111,10 @@ I used the following learning materials
 As a Test Engineer, I wanted to learn to write tests first using Test-driven development (TDD) method. I created my first unit tests in Kotlin and as a result, refactored code by adding a hello named function:
 
 ```kotlin
-fun hello(language: Int = 0, name: String = "World"): String {
-    when (language) {
-        1 -> return "Hei ${name}!"
-        2 -> return "Hola ${name}!"
-        else -> return "Hello ${name}!"
-    }
+fun hello(language: Int = 0, name: String = "World") = when (language) {
+    1 -> "Hei ${name}!"
+    2 -> "Hola ${name}!"
+    else -> "Hello ${name}!"
 }
 
 fun main() {
@@ -129,6 +127,7 @@ I learned
 - to write simple unit tests
 - some very basics of Kotlin (how to create a function with default values, use a string template and use a when statement)
 - to use TDD method with Kotlin
+- simplify code
 - to run unit tests
 - why Kotlin is cool
 - a 5 step method of easy TDD
@@ -160,3 +159,5 @@ I used the following learning materials
 - Kotlin Language Guide: [Control Flow: if, when, for, while](https://kotlinlang.org/docs/reference/control-flow.html)
 - Chapter in a book: [The Art of Agile Development: Test-Driven Development](https://www.jamesshore.com/Agile-Book/test_driven_development.html) by James Shore
 - Conference talk (video): [Android TDD with Kotlin](https://www.youtube.com/watch?v=TXwCu8fVsVU) by Heather Downing
+
+## Converting existing Java files to Kotlin

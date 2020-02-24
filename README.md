@@ -21,6 +21,8 @@ With this self-organized self-study project, I have learned to
 - create, refactor and run unit tests
 - write Kotlin code
 - refactor Kotlin code
+- write Java code
+- convert Java code to Kotlin code
 
 To learn Kotlin I have
 

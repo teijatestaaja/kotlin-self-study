@@ -65,7 +65,7 @@ All the tasks are divided into sections and completing each section gradually bu
 
 ### [TASK 6](#task-6). Convert a java class to matching Kotlin class using IntelliJ IDEA
 
-In this task you will need the following java class: [Task.java](#java-examples/Task.java)
+In this task you will need the following java class: [Task.java](#../java-examples/Task.java)
 
 - Read documentation [Classes and Inheritance](https://kotlinlang.org/docs/reference/classes.html).
 - Read tutorial [Mixing Java and Kotlin in one project](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html).

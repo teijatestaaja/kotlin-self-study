@@ -174,7 +174,7 @@ I learned to
 
 I used the following learning materials
 
-- Documentation: [Classes and Inheritance](https://kotlinlang.org/docs/reference/classes.html).
+- Documentation: [Classes and Inheritance](https://kotlinlang.org/docs/reference/classes.html)
 - Documentation: [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html)
 - Tutorial: [Mixing Java and Kotlin in one project](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html)
 - Video: [Kotlin Crash Course for Java Developers](https://www.youtube.com/watch?v=pXdY1B-KVJg)

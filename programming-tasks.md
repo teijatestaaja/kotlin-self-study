@@ -68,7 +68,7 @@ All the tasks are divided into sections and completing each section gradually bu
 In this task you will need the following java class: [Task.java](/java-examples/Task.java)
 
 - Read documentation [Classes and Inheritance](https://kotlinlang.org/docs/reference/classes.html).
-- Read documentation [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html)
+- Read documentation [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html).
 - Read tutorial [Mixing Java and Kotlin in one project](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html).
 - Create a new Kotlin project.
 - Convert the Java class to a Kotlin class using Method 1.

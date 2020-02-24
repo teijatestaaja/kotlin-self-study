@@ -123,7 +123,7 @@ There are no tasks on the list!
 - Add main function outside the class.
 - Use println to print the desired output.
 
-### [TASK 9](#task-9). Use TDD method and modify Todo.kt class that was created in previous task and write the following tests
+### [TASK 9](#task-9). Use TDD method and modify Todo.kt class that was created in previous task and write also the following tests
 
 ```kotlin
 class TodoTest {
@@ -134,12 +134,12 @@ class TodoTest {
     }
 
     @Test
-    fun `should return +1 elements in todo list after add` ()  {
+    fun `should return +1 elements in todo list after adding a task` ()  {
 
     }
 
     @Test
-    fun `should return -1 elements in todo list after remove` ()  {
+    fun `should return -1 elements in todo list after removing a task` ()  {
 
     }
 
@@ -161,7 +161,7 @@ class TodoTest {
 ```
 
 - Read documentation [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html).
-- Add a new property (a list of tasks) to TodoList.kt by using suitable Kotlin Collection.
+- Add a new property (a list of tasks) to Todo.kt by using suitable Kotlin Collection.
 - Write tests using TDD method.
 
 ### [TASK 10](#task-10). Create Main.kt and move main function from Todo.kt to Main.kt

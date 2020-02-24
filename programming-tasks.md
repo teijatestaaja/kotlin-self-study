@@ -61,9 +61,9 @@ All the tasks are divided into sections and completing each section gradually bu
 
 **NOTE! Create a new Kotlin project for the following tasks.**
 
-## Learn to convert existing Java files to Kotlin
+## Learn to create classes with properties
 
-### [TASK 6](#task-6). Convert a java class to Kotlin data class using IntelliJ IDEA
+### [TASK 6](#task-6). Convert a Java class to Kotlin data class using IntelliJ IDEA
 
 In this task you will need the following java class: [Task.java](/java-examples/Task.java)
 
@@ -86,9 +86,7 @@ Method 2:
 - Copy and paste Task.java to your Kotlin project.
 - Right-click the java file in your project view and select "Convert Java File to Kotlin File".
 
-## Learn to override member functions
-
-### [TASK 7](#task-7). Use TDD method and Task.kt class that was created in previous task and make the following tests pass
+### [TASK 7](#task-7). Use TDD method and modify Task.kt class that was created in previous task and make the following tests pass
 
 ```kotlin
 import Task
@@ -114,19 +112,56 @@ class TaskTest {
 - Override toString() function in Task.kt
 - Re-run the test.
 
-## Learn to create classes with properties
+### [TASK 8](#task-8). Create a new Kotlin class named Todo.kt with a main function that prints out the following output
 
-### [TASK 8](#task-8). Create a new Kotlin class named TodoList.kt with a main function that prints out the following output
-
-```kotlin
+```text
 All tasks:
 There are no tasks on the list!
 ```
 
-- Add new Kotlin class/file.
-- Add main function.
+- Add new Kotlin class.
+- Add main function outside the class.
 - Use println to print the desired output.
 
-### [TASK 9](#task-9). Add a new property (a list of tasks) to TodoList.kt by using suitable Collection
+### [TASK 9](#task-9). Use TDD method and modify Todo.kt class that was created in previous task and write the following tests
 
-- Read documentation [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html)
+```kotlin
+class TodoTest {
+
+    @Test
+    fun `should return empty todo list`() {
+
+    }
+
+    @Test
+    fun `should return +1 elements in todo list after add` ()  {
+
+    }
+
+    @Test
+    fun `should return -1 elements in todo list after remove` ()  {
+
+    }
+
+    @Test
+    fun `should be able to mark task as completed` ()  {
+
+    }
+
+    @Test
+    fun `should be able to mark task as uncompleted` ()  {
+
+    }
+
+    @Test
+    fun `should be able to update task description` ()  {
+
+    }
+}
+```
+
+- Read documentation [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html).
+- Add a new property (a list of tasks) to TodoList.kt by using suitable Kotlin Collection.
+- Write tests using TDD method.
+
+### [TASK 10](#task-10). Create Main.kt and move main function from Todo.kt to Main.kt

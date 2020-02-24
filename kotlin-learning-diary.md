@@ -15,9 +15,10 @@ Total time spent on the project: 670 minutes (11 hours 10 minutes)
 - [x] Study the basics of Kotlin along with Kotlin's history, present and future (20.2.2020: 30 min)
 - [x] Learn to write simple unit tests in Kotlin (20.2.2020: 120 minutes)
 - [x] Find out benefits of Kotlin and update learning diary (20.2.2020: 90 minutes)
-- [ ] Design more programming tasks
+- [x] Find out differences between Kotlin and Java (21.2.2020: 240 minutes)
+- [x] Design more programming tasks 7-10 (24.2.2020: 120 minutes)
+- [x] Learn about Kotlin classes and collections (24.2.2020: 120 minutes)
 - [ ] Practise at Kotlin Koans
-- [ ] Compare Java vs Kotlin
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App
 - [ ] ... more to be added later
@@ -160,4 +161,21 @@ I used the following learning materials
 - Chapter in a book: [The Art of Agile Development: Test-Driven Development](https://www.jamesshore.com/Agile-Book/test_driven_development.html) by James Shore
 - Conference talk (video): [Android TDD with Kotlin](https://www.youtube.com/watch?v=TXwCu8fVsVU) by Heather Downing
 
-## Converting existing Java files to Kotlin
+## Creating classes with properties (Tasks 6 to 10)
+
+I learned to
+
+- convert Java classes to Kotlin classes
+- differences between Java and Kotlin
+- refresh some Java
+- basics of Kotlin
+- create classes in Kotlin
+- use collections in Kotlin
+
+I used the following learning materials
+
+- Documentation: [Classes and Inheritance](https://kotlinlang.org/docs/reference/classes.html).
+- Documentation: [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html)
+- Tutorial: [Mixing Java and Kotlin in one project](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html)
+- Video: [Kotlin Crash Course for Java Developers](https://www.youtube.com/watch?v=pXdY1B-KVJg)
+- Documentation: [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html)

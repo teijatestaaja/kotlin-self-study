@@ -63,7 +63,7 @@ All the tasks are divided into sections and completing each section gradually bu
 
 **NOTE! Create a new Kotlin project for the following tasks.**
 
-## Learn to create classes with properties
+## Learn to create classes with properties and functions
 
 ### [TASK 6](#task-6). Convert a Java class to Kotlin data class using IntelliJ IDEA
 

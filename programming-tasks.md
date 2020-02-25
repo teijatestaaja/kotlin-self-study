@@ -134,17 +134,12 @@ class TodoTest {
     }
 
     @Test
-    fun `should return +1 elements in todo list after adding a task` ()  {
+    fun `should be able to add task` ()  {
 
     }
 
     @Test
-    fun `should be able to edit task description` ()  {
-
-    }
-
-    @Test
-    fun `should return -1 elements in todo list after removing a task` ()  {
+    fun `should be able to remove task` ()  {
 
     }
 
@@ -158,6 +153,11 @@ class TodoTest {
 
     }
 
+    @Test
+    fun `should be able to update task description` ()  {
+
+    }
+
 }
 ```
 
@@ -165,11 +165,15 @@ class TodoTest {
 - Add a new property (a list of tasks) to Todo.kt by using suitable Kotlin Collection.
 - Write tests using TDD method.
 
-### [TASK 10](#task-10). Create Main.kt, move main function from Todo.kt to Main.kt and create the following UI functionalities
+### [TASK 10](#task-10). Using Todo.kt and Task.kt, create TodoList Kotlin program with the following UI functionalities
 
-- add task
-- edit task
-- remove task
-- mark task as completed
-- mark task as uncompleted
-- quit
+```pseudo
+    1 Print tasks
+    2 Add task
+    3 Remove task
+    4 Edit task description
+    5 Mark task completed
+    6 Mark task uncompleted
+    7 Quit
+    Choose>
+```

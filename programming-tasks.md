@@ -1,8 +1,10 @@
 # Programming tasks
 
-These programming tasks are beginner-friendly tasks for self-learning [Kotlin programming language](https://kotlinlang.org/). They are designed especially for those who have at least some basic Java or JavaScript programming background. The tasks work best if they are completed in order, starting from Task 1. Hints for solving tasks are provided only for the first ten tasks, which will help you to set up the development environment, get familiar with finding out information in [Kotlin documentation](https://kotlinlang.org/docs/reference/) and introduce yourself to or brush up your skills in [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development).
+These programming tasks are beginner-friendly tasks for self-learning [Kotlin programming language](https://kotlinlang.org/). They are designed especially for those who have at least some basic Java or JavaScript programming background. The tasks work best if they are completed in order, starting from Task 1.
 
-All the tasks are divided into sections and completing each section gradually builds up your knowledge on different features of Kotlin. I have designed these tasks while teaching myself Kotlin from scratch, and these tasks are free to use for personal learning and career advancement. Do not use these tasks for commercial purposes. If you have any questions or if you want to give feedback or improvement ideas, please send me an email to teija.alasalmi@gmail.com
+Hints for solving tasks are provided only for the first nine tasks, which will help you to set up the development environment, get familiar with finding out information in [Kotlin documentation](https://kotlinlang.org/docs/reference/) and introduce yourself to or brush up your skills in [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development). In the last task, you will complete a simple ToDo program using the classes created in the previous tasks.
+
+All the tasks are divided into sections and completing each section gradually builds up your knowledge on different basic features of Kotlin. I have designed these tasks while teaching myself Kotlin from scratch, and these tasks are free to use for personal learning and career advancement. Do not use these tasks for commercial purposes. If you have any questions or if you want to give feedback or improvement ideas, please send me an email to teija.alasalmi@gmail.com
 
 (c) Teija Alasalmi
 

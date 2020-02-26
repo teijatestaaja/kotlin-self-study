@@ -146,6 +146,11 @@ class TodoTest {
     }
 
     @Test
+    fun `should be able to remove task by number` ()  {
+
+    }
+
+    @Test
     fun `should be able to mark task as completed` ()  {
 
     }
@@ -160,6 +165,10 @@ class TodoTest {
 
     }
 
+    @Test
+    fun `should be able to search task` () {
+
+    }
 }
 ```
 

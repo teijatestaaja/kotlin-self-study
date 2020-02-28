@@ -18,6 +18,7 @@ Total time spent on the project: 670 minutes (11 hours 10 minutes)
 - [x] Find out differences between Kotlin and Java (21.2.2020: 240 minutes)
 - [x] Design more programming tasks 7-10 (24.2.2020: 120 minutes)
 - [x] Learn about Kotlin classes and collections (24.2.2020: 120 minutes)
+- [ ] Create TODO App in Kotlin (x minutes)
 - [ ] Practise at Kotlin Koans
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App
@@ -27,59 +28,7 @@ Total time spent on the project: 670 minutes (11 hours 10 minutes)
 
 After searching and evaluating online material related to Kotlin, I learned that Kotlin language was developed in 2011 by [JetBrains](https://www.jetbrains.com/), a software development company headquartered in Czech Republic. In May 2019 [Google announced](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/) that the Kotlin programming language is now its preferred language for Android application developers. Also, according to [some statistics](http://codinginfinite.com/top-programming-languages-2020-stats-surveys), with the growth of Android, support of Google and with clean and short syntax Kotlin is a good choice to learn as a programming language for Android development.
 
-I also learned that there are many tutorials, guidelines, online courses and Youtube videos on Kotlin. Most of it seems to be in English, since I could not find any tutorials in Finnish. The best materials for learning Kotlin online are maintained by the [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html), which *"was created by JetBrains and Google with the mission to protect, promote and advance the development of the Kotlin programming language."*
-
-Here is a list of online materials I think are useful when self-learning Kotlin:
-
-### Main resources
-
-- Learn Kotlin [https://kotlinlang.org/docs/reference/](https://kotlinlang.org/docs/reference/)
-- Kotlin Koans [https://play.kotlinlang.org/koans/overview](https://play.kotlinlang.org/koans/overview)
-- GitHub page for Kotlin by JetBrains [https://github.com/JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-### Tools
-
-- Getting started with IntelliJ IDEA [https://kotlinlang.org/docs/tutorials/getting-started.html](https://kotlinlang.org/docs/tutorials/getting-started.html)
-- Getting started with Android Studio [https://kotlinlang.org/docs/tutorials/kotlin-android.html](https://kotlinlang.org/docs/tutorials/kotlin-android.html)
-- Kotlin plugin for Visual Studio Code [(https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
-
-### Videos
-
-- Video by freeCodeCamp: Kotlin in 3 hours [https://www.youtube.com/watch?v=F9UC9DY-vIU](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-- Video by freeCodeCamp: Programming Fundamentals with Kotlin [https://www.youtube.com/watch?v=AeC4G-H-MQA](https://www.youtube.com/watch?v=AeC4G-H-MQA)
-- Video by freeCodeCamp: Android development with Kotlin [https://www.youtube.com/watch?time_continue=8&v=Iz08OTTjR04](https://www.youtube.com/watch?time_continue=8&v=Iz08OTTjR04)
-- Video by Google Developers: Uses for Kotlin [https://www.youtube.com/watch?v=YbF8Q8LxAJs](https://www.youtube.com/watch?v=YbF8Q8LxAJs)
-
-### Quick learning
-
-- 8-Minute crash course on Kotlin Programming language [https://blog.kotlin-academy.com/8-minute-crash-course-on-kotlin-programming-language-e8a804ed3d8a](https://blog.kotlin-academy.com/8-minute-crash-course-on-kotlin-programming-language-e8a804ed3d8a)
-- Android develop guide on Kotlin: Get Started with Kotlin on Android [https://developer.android.com/kotlin/get-started](https://developer.android.com/kotlin/get-started)
-- Kotlin Playground [https://play.kotlinlang.org](https://play.kotlinlang.org)
-
-### Free courses
-
-- Coursera: Kotlin for Java Developers by JetBrains (intermediate level) [https://www.coursera.org/learn/kotlin-for-java-developers](https://www.coursera.org/learn/kotlin-for-java-developers)
-- Udacity: Kotlin Bootcamp for Programmers by Google (intermediate level) [https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
-- Udacity: Developing Android Apps with Kotlin by Google (intermediate level) [https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
-- Udacity: Advanced Android with Kotlin by Google (intermediate level) [https://www.udacity.com/course/advanced-android-with-kotlin--ud940](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
-
-### Blogs, coding puzzles and sample apps
-
-- Kt. Academy, a blog on Kotlin [https://blog.kotlin-academy.com/](https://blog.kotlin-academy.com/)
-- Kotlin programming language wiki [https://kgoralski.gitbook.io/wiki/kotlin](https://kgoralski.gitbook.io/wiki/kotlin), personal wiki on Kotlin by Krzysztof Góralski
-- Kotlin coding puzzles [https://github.com/igorwojda/kotlin-coding-puzzle](https://github.com/igorwojda/kotlin-coding-puzzle) by Igor Wojda
-- Kotlin online coding tests & interview questions [https://devskiller.com/coding-tests-skill/kotlin/](https://devskiller.com/coding-tests-skill/kotlin/)
-- Library of sample Android apps written in Kotlin [https://developer.android.com/samples?language=kotlin](https://developer.android.com/samples?language=kotlin)
-
-### Cheat sheets and other resources
-
-- Community-maintained list of links to Kotlin projects, libraries and other resources [https://kotlin.link/](https://kotlin.link/)
-- Kotlin cheat sheet [https://kt.academy/static/Kotlin_Cheat_Sheet.pdf](https://kt.academy/static/Kotlin_Cheat_Sheet.pdf)
-- Kotlin coroutines cheat sheet [https://kt.academy/static/Kotlin_Coroutines_Cheat_Sheet.pdf](https://kt.academy/static/Kotlin_Coroutines_Cheat_Sheet.pdf)
-- From Java to Kotlin cheat sheet [https://fabiomsr.github.io/from-java-to-kotlin/](https://fabiomsr.github.io/from-java-to-kotlin/), examples by Fabio Santana
-- Kotlin tutorial at tutorialspoint [https://www.tutorialspoint.com/kotlin/index.html](https://www.tutorialspoint.com/kotlin/index.html)
-- Kotlin open sourse projects and libraries [https://kotlinlang.org/docs/resources.html](https://kotlinlang.org/docs/resources.html)
-- More resources on Kotlin listed in Android Developers Page [https://developer.android.com/kotlin/resources](https://developer.android.com/kotlin/resources)
+I also learned that there are many tutorials, guidelines, online courses and Youtube videos on Kotlin. Most of it seems to be in English, since I could not find any tutorials in Finnish. The best materials for learning Kotlin online are maintained by the [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html), which *"was created by JetBrains and Google with the mission to protect, promote and advance the development of the Kotlin programming language."* See [the list](README.md).
 
 ## Writing the first program (Tasks 1 to 3)
 
@@ -161,7 +110,7 @@ I used the following learning materials
 - Chapter in a book: [The Art of Agile Development: Test-Driven Development](https://www.jamesshore.com/Agile-Book/test_driven_development.html) by James Shore
 - Conference talk (video): [Android TDD with Kotlin](https://www.youtube.com/watch?v=TXwCu8fVsVU) by Heather Downing
 
-## Creating classes with properties (Tasks 6 to 10)
+## Creating classes with properties (Tasks 6 to 8)
 
 I learned to
 
@@ -178,4 +127,12 @@ I used the following learning materials
 - Documentation: [Data Classes](https://kotlinlang.org/docs/reference/data-classes.html)
 - Tutorial: [Mixing Java and Kotlin in one project](https://kotlinlang.org/docs/tutorials/mixing-java-kotlin-intellij.html)
 - Video: [Kotlin Crash Course for Java Developers](https://www.youtube.com/watch?v=pXdY1B-KVJg)
+- Video: [Kotlin course - Tutorial for beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+- Video: [Introduction to Kotlin](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 - Documentation: [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html)
+
+## Creating a simple Todo App in Kotlin
+
+I learned to
+
+- Use the basic of Kotlin in action in a simple Todo program that prints todos on console

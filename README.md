@@ -8,32 +8,26 @@ I have not particularly enjoyed Android testing nor the IDEs such as Android Stu
 
 So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-diary.md).
 
-## Summary: What I have learned from this project so far (February 2020)
+## Summary: What I have learned from this project so far
 
-With this self-organized self-study project, I have learned to
+### February 2020:
 
 - install and use IDEs and code editors and their plugins suitable for Kotlin development
 - search information about Kotlin's syntax and features from the [Kotlin documentation](https://kotlinlang.org/docs/reference/)
 - solve problems
 - create small [programming tasks](programming-tasks.md) for a certain purpose in order to learn a feature
-- search learning material suitable for this project
-- evaluate learning material suitable for this project
-- create, refactor and run unit tests
-- write Kotlin code
-- refactor Kotlin code
-- write Java code
+- search and evaluate learning material suitable for this project
+- create, refactor and run unit tests in Kotlin & JUnit 4
+- basics of Kotlin in terms of variables, functions, classes, collections and control flow
+- write and refactor Kotlin code
 - convert Java code to Kotlin code
 
-To learn Kotlin I have
+## To learn Kotlin I have
 
-- read online articles
-- read online tutorials
-- read Kotlin documentation and language guide
+- read online articles, tutorials, Kotlin documentation and language guide
 - read chapters in books
-- watched conference talks
-- watched YouTube videos
-- coded with IntelliJ IDEA
-- coded with Visual Studio
+- watched conference talks and YouTube videos
+- coded with IntelliJ IDEA and Visual Studio
 - coded in Kotlin
 - coded in Java
 - made lots of errors when coding
@@ -93,3 +87,7 @@ There are many tutorials, guidelines, online courses and Youtube videos on Kotli
 - Kotlin tutorial at tutorialspoint [https://www.tutorialspoint.com/kotlin/index.html](https://www.tutorialspoint.com/kotlin/index.html)
 - Kotlin open sourse projects and libraries [https://kotlinlang.org/docs/resources.html](https://kotlinlang.org/docs/resources.html)
 - More resources on Kotlin listed in Android Developers Page [https://developer.android.com/kotlin/resources](https://developer.android.com/kotlin/resources)
+
+### Books
+
+- Roy, A. S. & Karanpuria, K. 2018. Kotlin Programming Cookbook. Birmingham: Packt Publishing.

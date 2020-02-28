@@ -2,7 +2,7 @@
 
 This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
 
-Total time spent on the project: 670 minutes (11 hours 10 minutes)
+Total time spent on the project: 1750 minutes (29 hours 10 minutes)
 
 ## Steps from zero to hero in Kotlin
 
@@ -16,9 +16,10 @@ Total time spent on the project: 670 minutes (11 hours 10 minutes)
 - [x] Learn to write simple unit tests in Kotlin (20.2.2020: 120 minutes)
 - [x] Find out benefits of Kotlin and update learning diary (20.2.2020: 90 minutes)
 - [x] Find out differences between Kotlin and Java (21.2.2020: 240 minutes)
-- [x] Design more programming tasks 7-10 (24.2.2020: 120 minutes)
+- [x] Design more programming tasks 7-10 (24.2.2020: 135 minutes)
 - [x] Learn about Kotlin classes and collections (24.2.2020: 120 minutes)
-- [ ] Create TODO App in Kotlin (x minutes)
+- [x] Watch videos related to Kotlin on YouTube (27.2.2020: 225 minutes) ~ 1 study point completed
+- [ ] Create TODO App in Kotlin (28.2.2020: 360 minutes)
 - [ ] Practise at Kotlin Koans
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App
@@ -131,7 +132,7 @@ I used the following learning materials
 - Video: [Introduction to Kotlin](https://www.youtube.com/watch?v=X1RVYt2QKQE)
 - Documentation: [Kotlin Collections Overview](https://kotlinlang.org/docs/reference/collections-overview.html)
 
-## Creating a simple Todo App in Kotlin
+## Creating a simple Todo App in Kotlin (Tasks 9 to 10)
 
 I learned to
 

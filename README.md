@@ -10,7 +10,7 @@ So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-dia
 
 ## Summary: What I have learned from this project so far
 
-### February 2020:
+### February 2020
 
 - install and use IDEs and code editors and their plugins suitable for Kotlin development
 - search information about Kotlin's syntax and features from the [Kotlin documentation](https://kotlinlang.org/docs/reference/)
@@ -21,6 +21,7 @@ So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-dia
 - basics of Kotlin in terms of variables, functions, classes, collections and control flow
 - write and refactor Kotlin code
 - convert Java code to Kotlin code
+- code a sipmple todo app in Kotlin
 
 ## To learn Kotlin I have
 

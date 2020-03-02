@@ -2,7 +2,7 @@
 
 This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
 
-Total time spent on the project: 1750 minutes (29 hours 10 minutes)
+Total time spent on the project: 1795 minutes (29 hours 55 minutes)
 
 ## Steps from zero to hero in Kotlin
 
@@ -19,7 +19,7 @@ Total time spent on the project: 1750 minutes (29 hours 10 minutes)
 - [x] Design more programming tasks 7-10 (24.2.2020: 135 minutes)
 - [x] Learn about Kotlin classes and collections (24.2.2020: 120 minutes)
 - [x] Watch videos related to Kotlin on YouTube (27.2.2020: 225 minutes) ~ 1 study point completed
-- [ ] Create TODO App in Kotlin (28.2.2020: 360 minutes)
+- [x] Create a TODO App in Kotlin (28.2.2020: 405 minutes)
 - [ ] Practise at Kotlin Koans
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App
@@ -136,4 +136,6 @@ I used the following learning materials
 
 I learned to
 
-- Use the basic of Kotlin in action in a simple Todo program that prints todos on console
+- Use the basics of Kotlin in a simple Todo program that prints todos on console, can add new todos, can update todo's description, can mark it as complete/uncomplete and can remove todos.
+
+See [my code](/kotlin-examples/todoApp)

@@ -138,4 +138,4 @@ I learned to
 
 - Use the basics of Kotlin in a simple Todo program that prints todos on console, can add new todos, can update todo's description, can mark it as complete/uncomplete and can remove todos.
 
-See [my code](/kotlin-examples/todoApp)
+See [my code](/kotlin-examples/todoApp/src)

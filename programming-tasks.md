@@ -1,4 +1,4 @@
-# Programming tasks
+# Programming tasks for Kotlin
 
 These programming tasks are beginner-friendly tasks for self-learning [Kotlin programming language](https://kotlinlang.org/). They are designed especially for those who have at least some basic Java or JavaScript programming background. The tasks work best if they are completed in order, starting from Task 1.
 

@@ -2,7 +2,7 @@
 
 This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
 
-Total time spent on the project: 1795 minutes (30 hours)
+Total time spent on the project: 1800 minutes (30 hours)
 
 ## Steps from zero to hero in Kotlin
 

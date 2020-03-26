@@ -66,10 +66,11 @@ There are many tutorials, guidelines, online courses and Youtube videos on Kotli
 ### Free courses
 
 - Coursera: Kotlin for Java Developers by JetBrains (intermediate level) [https://www.coursera.org/learn/kotlin-for-java-developers](https://www.coursera.org/learn/kotlin-for-java-developers)
-- Udacity: Kotlin Bootcamp for Programmers by Google (intermediate level) [https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
-- Udacity: Developing Android Apps with Kotlin by Google (intermediate level) [https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 - Udacity: Advanced Android with Kotlin by Google (intermediate level) [https://www.udacity.com/course/advanced-android-with-kotlin--ud940](https://www.udacity.com/course/advanced-android-with-kotlin--ud940)
-- Udemy: Learn Kotlin By Making Android App (beginner) [https://www.udemy.com/course/learn-kotlin-by-making-android-app/](https://www.udemy.com/course/learn-kotlin-by-making-android-app/)
+- Udacity: Developing Android Apps with Kotlin by Google (intermediate level) [https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+- Udacity: Kotlin Bootcamp for Programmers by Google (intermediate level) [https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+- Udacity: Kotlin for Android Developers (advanced level) [https://www.udacity.com/course/kotlin-for-android-developers--ud888](https://www.udacity.com/course/kotlin-for-android-developers--ud888)
+- Udemy: Learn Kotlin By Making Android App (beginner level) [https://www.udemy.com/course/learn-kotlin-by-making-android-app/](https://www.udemy.com/course/learn-kotlin-by-making-android-app/)
 
 ### Blogs, coding puzzles and sample apps
 

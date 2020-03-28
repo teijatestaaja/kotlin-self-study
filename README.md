@@ -8,20 +8,15 @@ I have not particularly enjoyed Android testing nor the IDEs such as Android Stu
 
 So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-diary.md).
 
-## Summary: What I have learned from this project so far
+## Summary - What I have learned from this project so far
 
-### February 2020
+### February 2020: Start of the project
 
-- install and use IDEs and code editors and their plugins suitable for Kotlin development
-- search information about Kotlin's syntax and features from the [Kotlin documentation](https://kotlinlang.org/docs/reference/)
-- solve problems
-- create small [programming tasks](programming-tasks.md) for a certain purpose in order to learn a feature
-- search and evaluate learning material suitable for this project
-- create, refactor and run unit tests in Kotlin & JUnit 4
-- basics of Kotlin in terms of variables, functions, classes, collections and control flow
-- write and refactor Kotlin code
-- convert Java code to Kotlin code
-- code a sipmple todo app in Kotlin
+I learned to install and use IDEs and code editors and their plugins suitable for Kotlin development, search information about Kotlin's syntax and features from the [Kotlin documentation](https://kotlinlang.org/docs/reference/) , solve problems, create small [programming tasks](programming-tasks.md) for a certain purpose in order to learn a feature, search and evaluate learning material suitable for this project and create and run unit tests in Kotlin & JUnit 4. I learned the basics of Kotlin in terms of variables, functions, classes, collections and control flow, I learned how to write and refactor Kotlin code, how to convert Java code to Kotlin code and how to code a simple todo app in Kotlin.
+
+### March & April 2020: Creating a basic online Kotlin learning material in Finnish
+
+I am attending an online course which covers the basics of learning material production. To complete the course, I have to create a learning material for any subject, so I chose to create a learning material that covers the basics of Kotlin in Finnish. I am planning to finish it during Easter, because due to Covid-19 outbreak also in Finland, we are not allowed to leave the Helsinki Capital Area so there is plenty of time to study.
 
 ## To learn Kotlin I have
 

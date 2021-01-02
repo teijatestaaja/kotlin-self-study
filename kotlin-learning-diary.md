@@ -1,10 +1,6 @@
-# Kotlin learning diary
+# Kotlin learning diary - Steps from zero to hero in Kotlin
 
-This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020.
-
-Total time spent on the project: 1800 minutes (30 hours)
-
-## Steps from zero to hero in Kotlin
+This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020. Completed tasks:
 
 - [x] Set up a github self-study project and find out what Kotlin is (14.2.2020: 60 minutes)
 - [x] Search, evaluate and list online learning material related to Kotlin (18.2.2020: 200 minutes)
@@ -29,7 +25,7 @@ Total time spent on the project: 1800 minutes (30 hours)
 
 After searching and evaluating online material related to Kotlin, I learned that Kotlin language was developed in 2011 by [JetBrains](https://www.jetbrains.com/), a software development company headquartered in Czech Republic. In May 2019 [Google announced](https://techcrunch.com/2019/05/07/kotlin-is-now-googles-preferred-language-for-android-app-development/) that the Kotlin programming language is now its preferred language for Android application developers. Also, according to [some statistics](http://codinginfinite.com/top-programming-languages-2020-stats-surveys), with the growth of Android, support of Google and with clean and short syntax Kotlin is a good choice to learn as a programming language for Android development.
 
-I also learned that there are many tutorials, guidelines, online courses and Youtube videos on Kotlin. Most of it seems to be in English, since I could not find any tutorials in Finnish. The best materials for learning Kotlin online are maintained by the [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html), which *"was created by JetBrains and Google with the mission to protect, promote and advance the development of the Kotlin programming language."* See [the list](README.md).
+I also learned that there are many tutorials, guidelines, online courses and Youtube videos on Kotlin. Most of it seems to be in English, since I could not find any tutorials in Finnish. The best materials for learning Kotlin online are maintained by the [Kotlin Foundation](https://kotlinlang.org/foundation/kotlin-foundation.html), which *"was created by JetBrains and Google with the mission to protect, promote and advance the development of the Kotlin programming language."* See [the list](learn-kotlin.md).
 
 ## Writing the first program (Tasks 1 to 3)
 

@@ -14,8 +14,9 @@ This is my learning diary on Kotlin programming language. The self-study project
 - [x] Find out differences between Kotlin and Java (21.2.2020: 240 minutes)
 - [x] Design more programming tasks 7-10 (24.2.2020: 135 minutes)
 - [x] Learn about Kotlin classes and collections (24.2.2020: 120 minutes)
-- [x] Watch videos related to Kotlin on YouTube (27.2.2020: 225 minutes) ~ 1 study point completed
+- [x] Watch videos related to Kotlin on YouTube (27.2.2020: 225 minutes)
 - [x] Create a TODO App in Kotlin (28.2.2020: 410 minutes)
+- [x] Create own Kotlin web course in Finnish (28.4.2020: 1620 minutes)
 - [ ] Practise at Kotlin Koans
 - [ ] Solve Kotlin puzzles
 - [ ] Create a simple Android App

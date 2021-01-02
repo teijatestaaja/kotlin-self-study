@@ -10,7 +10,7 @@ So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-dia
 
 | Year | Time spent |
 | ---- |-----------:|
-| 2020 | 30 hours   |
+| 2020 | 57 hours   |
 | 2021 |            |
 
 ## Summary - What I have learned from this project so far
@@ -27,7 +27,7 @@ EDIT: I finished the learning material in April 2020 and I decided to develop it
 
 ### January 2021: First online course on Kotlin
 
-I had a break in learning since I changed a day job and I had to study some other stuff. However I am resuming my Kotlin studies and I started my very first Kotlin online course in Janury 2021.
+I had a break in learning since I changed a day job and I had to study some other stuff. However I am resuming my Kotlin studies this year and I started my very first introduction to Kotlin online course in January 2021.
 
 ## To learn Kotlin I have
 

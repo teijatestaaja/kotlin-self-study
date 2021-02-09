@@ -57,4 +57,4 @@ There are many tutorials, guidelines, online courses and Youtube videos on Kotli
 
 ### Books
 
-- Roy, A. S. & Karanpuria, K. 2018. Kotlin Programming Cookbook. Birmingham: Packt Publishing.
+- See list of books on Kotlin at [https://kotlinlang.org/docs/books.html](https://kotlinlang.org/docs/books.html)

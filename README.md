@@ -11,7 +11,7 @@ So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-dia
 | Year | Time spent |
 | ---- |-----------:|
 | 2020 | 57 hours   |
-| 2021 |            |
+| 2021 | So far: 5 hours 30 minutes  |
 
 ## To learn Kotlin I have
 
@@ -23,8 +23,8 @@ So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-dia
 - coded in Java
 - made lots of errors when coding
 - debugged code
-- studied Kotlin on 1 online course
 - developed my own Kotlin web course in Finnish
+- studied Kotlin on 1 online course
 
 ## Summary - What I have learned from this project so far
 

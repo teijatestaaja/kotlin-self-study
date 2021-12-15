@@ -2,11 +2,9 @@
 
 Welcome to follow how Test Automation Engineer is learning Kotlin programming from the scratch :)
 
-This Kotlin self-study project started on Valentine's Day 14.2.2020. I participated at the [Mimmit Koodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/) 2020 launch just for fun and there were some amazing and inspiring speakers at the event, who encouraged to learn more on things you know nothing about.
+This Kotlin self-study project started in March 2020. While in quarantine, I started learning how to play piano as well as learning programming in Kotlin. I have previous coding experience with Python, Java, JavaScript and C++, but I'll start from zero with Kotlin since I don't have any previous experience related to it or Android development.
 
-I have previous coding experience with Python, Java, JavaScript and C++, but I'll start from zero with Kotlin since I don't have any previous experience related to it or Android development.
-
-So, to follow the project, see my [learning diary to Kotlin](kotlin-learning-diary.md).
+So, to follow the project, see my [learning diary to Kotlin Basics](kotlin-learning-diary.md).
 
 | Year | Time spent |
 | ---- |-----------:|
@@ -38,6 +36,6 @@ I am attending an online course which covers the basics of learning material pro
 
 EDIT: I finished the learning material in April 2020 and I decided to develop it further in 2021 as part of my Candidate Thesis for Haaga-Helia Applied University.
 
-### February 2020: Start of the project
+### March 2020: Start of the project
 
 I learned to install and use IDEs and code editors and their plugins suitable for Kotlin development, search information about Kotlin's syntax and features from the [Kotlin documentation](https://kotlinlang.org/docs/reference/), solve problems, create small [programming tasks](programming-tasks.md) for a certain purpose in order to learn a feature, search and evaluate learning material and links suitable for this project and create and run unit tests in Kotlin & JUnit 4. I learned the basics of Kotlin in terms of variables, functions, classes, collections and control flow, I learned how to write and refactor Kotlin code, how to convert Java code to Kotlin code and how to code a simple todo app in Kotlin. I also collected [a list of links for learning Kotlin](learn-kotlin.md).

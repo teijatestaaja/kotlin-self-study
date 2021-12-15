@@ -1,26 +1,23 @@
-# Kotlin learning diary - Steps from zero to hero in Kotlin
+# Kotlin Learning Diary - Basics
 
-This is my learning diary on Kotlin programming language. The self-study project was started on week 8 in 2020. Completed tasks:
+This is my learning diary on Kotlin programming language. The self-study project was started Spring 2020. Completed tasks:
 
-- [x] Set up a github self-study project and find out what Kotlin is (14.2.2020: 60 minutes)
-- [x] Search, evaluate and list online learning material related to Kotlin (18.2.2020: 200 minutes)
-- [x] Create an initial todo list for self-learning (18.2.2020: 20 min)
-- [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (19.2.2020: 30 minutes)
-- [x] Create a Hello World program and run it in different environments (19.2.2020: 30 minutes)
-- [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (19.2.2020: 90 min)
-- [x] Study the basics of Kotlin along with Kotlin's history, present and future (20.2.2020: 30 min)
-- [x] Learn to write simple unit tests in Kotlin (20.2.2020: 120 minutes)
-- [x] Find out benefits of Kotlin and update learning diary (20.2.2020: 90 minutes)
-- [x] Find out differences between Kotlin and Java (21.2.2020: 240 minutes)
-- [x] Design more programming tasks 7-10 (24.2.2020: 135 minutes)
-- [x] Learn about Kotlin classes and collections (24.2.2020: 120 minutes)
-- [x] Watch videos related to Kotlin on YouTube (27.2.2020: 225 minutes)
-- [x] Create a TODO App in Kotlin (28.2.2020: 410 minutes)
-- [x] Create own Kotlin web course in Finnish (28.4.2020: 1620 minutes)
-- [ ] Practise at Kotlin Koans
-- [ ] Solve Kotlin puzzles
-- [ ] Create a simple Android App
-- [ ] ... more to be added later
+- [x] Set up a github self-study project and find out what Kotlin is (60 minutes)
+- [x] Search, evaluate and list online learning material related to Kotlin (200 minutes)
+- [x] Create an initial todo list for self-learning (20 min)
+- [x] Install IntelliJ IDEA, Android Studio and plugins for Visual Studio Code (30 minutes)
+- [x] Create a Hello World program and run it in different environments (30 minutes)
+- [x] Create a file for [programming tasks](programming-tasks.md) and update learning diary (90 min)
+- [x] Study the basics of Kotlin along with Kotlin's history, present and future (30 min)
+- [x] Learn to write simple unit tests in Kotlin (120 minutes)
+- [x] Find out benefits of Kotlin and update learning diary (90 minutes)
+- [x] Find out differences between Kotlin and Java (240 minutes)
+- [x] Design more programming tasks 7-10 (135 minutes)
+- [x] Learn about Kotlin classes and collections (120 minutes)
+- [x] Watch videos related to Kotlin on YouTube (225 minutes)
+- [x] Create a TODO App in Kotlin (410 minutes)
+- [x] Create own Kotlin web course in Finnish (1620 minutes)
+
 
 ## Where to learn Kotlin
 

@@ -1,6 +1,7 @@
 # Kotlin Learning Diary - Basics
 
-This is my learning diary on Kotlin programming language. The self-study project was started Spring 2020. Completed tasks:
+This is my learning diary on Kotlin programming language. The self-study project was started Spring 2020. I learned to install and use IDEs and code editors and their plugins suitable for Kotlin development, search information about Kotlin's syntax and features from the [Kotlin documentation](https://kotlinlang.org/docs/reference/), solve problems, create small [programming tasks](programming-tasks.md) for a certain purpose in order to learn a feature, search and evaluate learning material and links suitable for this project and create and run unit tests in Kotlin & JUnit 4. I learned the basics of Kotlin in terms of variables, functions, classes, collections and control flow, I learned how to write and refactor Kotlin code, how to convert Java code to Kotlin code and how to code a simple todo app in Kotlin. I also collected [a list of links for learning Kotlin](learn-kotlin.md).
+Completed tasks:
 
 - [x] Set up a github self-study project and find out what Kotlin is (60 minutes)
 - [x] Search, evaluate and list online learning material related to Kotlin (200 minutes)

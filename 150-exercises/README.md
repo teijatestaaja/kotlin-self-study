@@ -9,5 +9,7 @@ Lesson learned: The add() function is not available for an immutable list, but i
 2. Add a new element at the end of an array in Kotlin. [My solution](solutions/arrays.kt). Read more: [Arrays](https://kotlinlang.org/docs/basic-types.html#arrays)
 
 ```
-Lesson learned: Arrays in Kotlin are represented by the Array class. The arrays in Kotlin are fixed-size, so once created, we can’t resize the array. Then use mutable list.
+Lesson learned: Arrays in Kotlin are represented by the Array class. 
+The arrays in Kotlin are fixed-size, so once created, we can’t resize the array.
+Use mutable list if you need array that changes.
 ```

@@ -6,7 +6,7 @@ This Kotlin self-study project started in March 2020. While in quarantine, I sta
 
 To follow the project, see my 
 - [learning diary to Kotlin Basics](kotlin-learning-diary.md)
-- [150 exercises completed in Kotlin](150-exercises/README.md)
+- [100 exercises completed in Kotlin](https://github.com/teijatestaaja/kotlin-harjoitukset/blob/main/100-harjoitusta/100_harjoitusta.md)
 
 | Year | Time spent |
 | ---- |-----------:|
